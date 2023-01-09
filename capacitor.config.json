@@ -1,0 +1,11 @@
+{
+  "appId": "com.caliparkfinder.app",
+  "appName": "calipark-finder",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
